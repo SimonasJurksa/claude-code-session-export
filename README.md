@@ -1,4 +1,4 @@
-# cc-session-export
+# claude-code-session-export
 
 Keep a readable, permanent copy of every Claude Code conversation.
 
