@@ -47,8 +47,8 @@ Requires Python 3.8+ (any Ubuntu/Debian has it) and Claude Code. No pip
 packages, no daemon, no container.
 
 ```bash
-git clone https://github.com/<you>/cc-session-export.git
-cd cc-session-export
+git clone https://github.com/SimonasJurksa/claude-code-session-export.git
+cd claude-code-session-export
 ./install.sh --backfill
 ```
 
